@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ### About me
 
-- still learning
+- A senior high school student.
+- Perparing for a hard exam.
+- Always busy with different things.

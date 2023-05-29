@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### About me
 
-- A senior high school student.
-- Perparing for a hard exam.
-- Always busy with different things.
+- I'm in senior high school.
+- Hardly get free time.
+- I'm always busy with exhausting things.

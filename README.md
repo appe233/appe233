@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-
-- I'm in senior high school.
-- Hardly get free time.
-- I'm always busy with exhausting things.
+None

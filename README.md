@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-Currently a student. I know nothing about programming, so basically most of my repositories are just forks.
+Hello.
